@@ -1,0 +1,10 @@
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\bin\Debug\Memo.exe.config
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\bin\Debug\Memo.exe
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\bin\Debug\Memo.pdb
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.Form1.resources
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.Properties.Resources.resources
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.exe
+C:\Users\acer\Desktop\Ivan\Informatica\C++\Memo\Memo\obj\Debug\Memo.pdb
